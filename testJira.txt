@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modificacion de texto asd21512
+=======
+Nuevo texto
+>>>>>>> 593fbded6ee58f09863a8fa26b4bb967d5e9fbbb
